@@ -1,0 +1,6 @@
+---
+category:
+  - "[[Journal]]"
+created:
+  "{ date }": 
+---

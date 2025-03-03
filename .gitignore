@@ -11,5 +11,6 @@
 *.md
 *.canvas
 
-# attachments
 Attachments
+
+!Templates/*.md
