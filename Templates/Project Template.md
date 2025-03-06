@@ -1,9 +1,8 @@
 ---
 category:
   - "[[Projects]]"
-year:
-  "{ date:YYYY }": 
-type: 
-url: 
-status: 
+year: "{{date:YYYY}}"
+type:
+url:
+status:
 ---

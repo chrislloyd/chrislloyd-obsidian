@@ -1,6 +1,5 @@
 ---
 category:
   - "[[Journal]]"
-created:
-  "{ date }": 
+date: "{{date}}"
 ---

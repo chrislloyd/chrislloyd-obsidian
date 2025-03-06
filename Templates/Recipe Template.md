@@ -1,26 +1,25 @@
 ---
 category:
   - "[[Recipes]]"
-title: 
+title:
 author:
   - - - Chris Lloyd
-image: 
-url: 
-publisher: 
-published:
-  "{ date }": 
-rating: 
-yield: 
+image:
+url:
+publisher:
+published: "{{date}}"
+rating:
+yield:
 ---
 
 ## Ingredients
 
-- 
+-
 
 ## Directions
 
-1. 
+1.
 
 ## Notes
 
-- 
+-

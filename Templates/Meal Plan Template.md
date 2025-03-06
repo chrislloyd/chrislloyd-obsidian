@@ -1,7 +1,7 @@
 ---
 category:
-  - "[[Meal Planning]]"
-date: {{date}}
+  - "[[Meal Plans]]"
+date: "{{date}}"
 cssclasses:
   - table-100
 ---

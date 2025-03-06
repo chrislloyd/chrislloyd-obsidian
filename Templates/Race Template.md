@@ -1,9 +1,10 @@
 ---
 category:
   - "[[Races]]"
-distance: 
-date: 
-results: 
-time: 
-pace: 
+url:
+date: "{{date}}"
+distance:
+results:
+time:
+pace:
 ---
