@@ -1,0 +1,17 @@
+filters:
+  and:
+    - contains(property.category, "[[Projects.base]]")
+    - not(contains(file.name, "Template"))
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - status
+      - year
+      - url
+    sort:
+      - column: property.year
+        direction: DESC
+      - column: property.status
+        direction: ASC

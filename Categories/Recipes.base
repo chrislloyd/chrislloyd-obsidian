@@ -1,0 +1,11 @@
+filters:
+  and:
+    - contains(property.category, "[[Recipes]]")
+    - not(contains(name, "Template"))
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - rating
+      - cuisine

@@ -1,0 +1,29 @@
+filters:
+  and:
+    - contains(property.category, "[[Races.base]]")
+    - not(contains(file.name, "Template"))
+formulas: {}
+display:
+  file.name: name
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date
+      - distance
+      - results
+      - time
+      - pace
+    sort:
+      - column: property.date
+        direction: DESC
+      - column: formula.date
+        direction: DESC
+      - column: formula.distance
+        direction: ASC
+      - column: formula.pace
+        direction: ASC
+    columnSize: {}
+  - type: table
+    name: View

@@ -1,0 +1,16 @@
+filters:
+  and:
+    - not(contains(file.name, "Template"))
+    - file.folder == "Journal"
+formulas:
+  Untitled: ""
+  Created: created
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.Created
+    sort:
+      - column: formula.Created
+        direction: ASC

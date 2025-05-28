@@ -1,0 +1,15 @@
+filters:
+  and:
+    - contains(property.category, "[[Meals.base]]")
+    - not(contains(file.name, "Template"))
+formulas: {}
+display: {}
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date
+    sort:
+      - column: property.date
+        direction: DESC
