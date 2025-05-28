@@ -16,7 +16,7 @@
   "starred": false,
   "markdown-importer": false,
   "zk-prefixer": true,
-  "random-note": false,
+  "random-note": true,
   "outline": true,
   "word-count": true,
   "slides": false,
@@ -28,5 +28,7 @@
   "canvas": true,
   "bookmarks": true,
   "properties": true,
-  "webviewer": false
+  "webviewer": false,
+  "footnotes": true,
+  "bases": true
 }
