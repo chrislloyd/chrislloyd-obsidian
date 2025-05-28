@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Projects]]"
+  - "[[Projects.base]]"
 year: "{{date:YYYY}}"
 type:
 url:

@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Meal Plans]]"
+  - "[[Meals.base]]"
 date: "{{date}}"
 cssclasses:
   - table-100

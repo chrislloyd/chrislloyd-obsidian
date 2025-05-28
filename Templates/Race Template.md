@@ -1,6 +1,6 @@
 ---
 category:
-  - "[[Races]]"
+  - "[[Races.base]]"
 url:
 date: "{{date}}"
 distance:

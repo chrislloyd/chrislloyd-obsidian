@@ -1,5 +1,5 @@
 ---
 category:
-  - "[[Journal]]"
+  - "[[Journal.base]]"
 date: "{{date}}"
 ---
